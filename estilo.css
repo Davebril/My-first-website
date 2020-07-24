@@ -1,0 +1,27 @@
+body {
+  background: lightblue;
+}
+
+.titulo {
+  background: gray;
+  text-align: right;
+}
+
+h1 {
+  color: red;
+}
+
+.titulo2 {
+  background: yellow;
+}
+
+h2 {
+  color:pink;
+}
+
+.entrada_titulo {
+  text-align: center;
+  font-size: 50px;
+  font-family: "arial"
+}
+
